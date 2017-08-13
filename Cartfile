@@ -1,2 +1,2 @@
-github "envoy/Embassy" ~> 3.0
+github "benloft/Embassy" "feature/carthage_support"
 
